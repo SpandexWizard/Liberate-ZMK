@@ -1,0 +1,17 @@
+if SHIELD_LIBERATE_LEFT
+
+# Name must be less than 16 characters long!
+config ZMK_KEYBOARD_NAME
+    default "Liberate Keyboard"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_LIBERATE_LEFT || SHIELD_LIBERATE_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
