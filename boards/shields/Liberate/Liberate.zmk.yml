@@ -1,7 +1,7 @@
 file_format: "1"
 id: liberate
 name: Liberate
-type: board
+type: shield
 url: n/a yet
 requires:
   - nice!nano
