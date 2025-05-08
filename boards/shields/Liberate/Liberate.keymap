@@ -4,7 +4,7 @@
 / {
     behaviors {
         pgup_pgdwn: pageup_pagedown {
-            compatible = "zmk,behavior-mod-morph';
+            compatible = "zmk,behavior-mod-morph";
             #binding-cells = <0>;
             bindings = <&kp PG_UP>, <&kp PG_DN>;
             mods = <(MOD_LSFT)>;.
