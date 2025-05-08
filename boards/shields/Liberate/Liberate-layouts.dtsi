@@ -57,3 +57,10 @@
             , <&key_physical_attrs 100 100 1400  350       0     0     0>
             ;
     };
+
+/ {
+    chosen {
+        zmk,physical-layout = &liberate_physical_layout ;
+        // Other chosen items
+    };
+};
