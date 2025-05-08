@@ -1,0 +1,14 @@
+file_format: "1"
+id: liberate
+name: Corne
+type: board
+url: n/a yet
+requires:
+  - nice!nano
+feature:
+  -keys
+  -display
+  -studio
+siblings:
+  - liberate_left
+  - liberate_right
