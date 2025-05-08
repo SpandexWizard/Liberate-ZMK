@@ -7,7 +7,7 @@
             compatible = "zmk,behavior-mod-morph";
             #binding-cells = <0>;
             bindings = <&kp PG_UP>, <&kp PG_DN>;
-            mods = <(MOD_LSFT)>;.
+            mods = <(MOD_LSFT)>;
             };
         };
 
