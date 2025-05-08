@@ -20,7 +20,7 @@
               &kp TAB    &kp Q   &kp W   &kp E  &kp R   &kp T                          &kp Y   &kp U   &kp I   &kp O   &kp P      &kp LEFT_BRACKET
               &mt LSHIFT CAPS &kp A &kp S &kp D &kp F   &kp G                          &kp H   &kp J   &kp K   &kp L   &kp SEMI   &kp SQT
               &kp LCTRL  &kp Z  &kp X   &kp C   &kp V   &kp B   &to 0        &tog 1    &kp N   &kp M   &kp COMMA   &kp DOT        &kp SLASH   &kp RIGHT_BRACKET
-              &kp LALT   &kp HOME                       &kp BCPC &kp ESC     &kp RET  &kp SPACE                                   &kp END &pgup_pgdwn
+              &kp LALT   &kp HOME                       &kp BSPC &kp ESC     &kp RET  &kp SPACE                                   &kp END &pgup_pgdwn
             >;
         };
         num_layer {
