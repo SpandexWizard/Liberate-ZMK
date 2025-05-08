@@ -33,5 +33,10 @@
                 
             >;
         };
+
+    chosen {
+        zmk,physical-layout = &liberate_physical_layout ;
+        // Other chosen items
     };
+};
 
